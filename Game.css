@@ -1,0 +1,14 @@
+header {
+    background:brown;
+    color:antiquewhite;
+    padding:30px;
+    text-align:center;
+}
+
+nav a {
+    text-align:center;
+    color:aquamarine;
+    font-size: 35px;
+    margin-left:10px;
+    text-decoration:none;
+}
