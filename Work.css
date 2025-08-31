@@ -1,0 +1,23 @@
+header{
+margin-bottom: 55px;
+text-align:center;
+background-color: brown;
+}
+
+main img{
+    width:300px;
+    height:300px;
+}
+
+nav a {
+    font-size:30px;
+    color:white;
+    text-decoration:none;
+    margin-left:10px;
+}
+
+footer{
+    background:brown;
+    padding:25px;
+    margin-top:40px;
+}
