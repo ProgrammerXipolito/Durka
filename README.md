@@ -1,1 +1,1 @@
-# Durka
+# Durka.game
